@@ -1,5 +1,5 @@
 # EJERCICIO PRÁCTICO
-## Reto practico para Choucair - LATAM Airlines 
+## Reto práctico para Choucair - LATAM Airlines 
  
  Realizado por: Luis Miguel Arcia Moreno
  
