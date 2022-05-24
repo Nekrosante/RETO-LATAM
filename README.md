@@ -1,8 +1,8 @@
 # RETO-LATAM
  Reto practico para Choucair - LATAM Airlines 
-EJERCICIO PRÁCTICO
-Nombre: Luis Miguel Arcia Moreno
-Fecha: 24/05/2022
+ EJERCICIO PRÁCTICO
+ Nombre: Luis Miguel Arcia Moreno
+ Fecha: 24/05/2022
 
 CASO DE NEGOCIO:
 LATAM Airlines es una aerolínea multinacional chilena formada por la fusión de las aerolíneas sudamericanas LAN, TAM4 y sus filiales.5 Con sede en Santiago (Chile), la aerolínea opera vuelos para pasajeros a países en América, el Caribe, Europa, África, Asia, Medio Oriente y Oceanía, llegando a un total de 136 destinos en 24 países. En carga, la aerolínea sirve a más de 144 destinos en 26 países y está conformada por aproximadamente 45 000 empleados y que consiste con 310 aviones.
